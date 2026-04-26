@@ -16,6 +16,14 @@ Challenges Completed
 
 ---
 
+## Level Pre-requisites
+
+- Log into the challenge using the following SSH command: **ssh krypton1@krypton.labs.overthewire.org -p 2231**
+- CD into the **krypton/** directory to find the challenge
+- For **Level 0 → 1**, you will CD into the **krypton1** folder (you will do the same for each challenge, incrementing the number)
+- Attempt to read the file. Depending on the challenge, you may have to use a tool to decrypt the password.
+- Once you have the password, type **exit** and then log back in using the next level (for example, the next level in this example would be krypton2)
+
 ## Tools Used
 
 - Linux
@@ -25,8 +33,9 @@ Challenges Completed
 - QuipQuip
 - Boxentriq
 
-Skills Demonstrated
-- Cryptanalysis
-- Linux file handling
-- Cipher analysis
-- Security problem solving
+## Skills Demonstrated
+- Cryptanalysis fundamentals
+- Classical cipher analysis (ROT13)
+- Linux command-line usage
+- File inspection and manipulation
+- Problem-solving methodology
