@@ -1,0 +1,1 @@
+Most Krypton levels are stored in /krypton/, so start by going there. The README tells me the level’s message is encrypted with ROT13, which is just a Caesar cipher. I used the ROT13 decoder via CyberChef to receive the password ROTTEN.
